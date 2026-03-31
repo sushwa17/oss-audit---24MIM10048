@@ -14,7 +14,7 @@ This repository contains a structured audit of the Linux Kernel and five functio
 5. **OSS Manifesto Generator (`script5.sh`):** Interactive script creating a philosophy .txt file.
 
 ## Instructions to Run
-1. Clone this repo: `git clone https://github.com/SathvikNettem/oss-audit--24MIP10171-`
+1. Clone this repo: `git clone https://github.com/sushwa17/oss-audit---24MIM10048-`
 2. Grant permissions: `chmod +x *.sh`
 3. Execute scripts: `./script1.sh`
 
